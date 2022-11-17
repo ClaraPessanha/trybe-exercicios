@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>Amigos de curso</title>
+  </head>
+  <body>
+    <h1>Exercícios</h1>
+    <ul> <li>Quelvin</li>
+        <li>Manu</li>
+<li>Gus</li>
+<li>Vini</li>
+<li>Vanessa</li>
+  </body>
+</html>
